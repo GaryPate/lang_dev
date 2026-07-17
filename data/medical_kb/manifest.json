@@ -1,0 +1,62 @@
+[
+  {
+    "filename": "asthma.md",
+    "topic": "asthma",
+    "domain": "respiratory",
+    "source_name": "NHLBI, NIH"
+  },
+  {
+    "filename": "hypertension.md",
+    "topic": "hypertension",
+    "domain": "cardiometabolic",
+    "source_name": "NHLBI, NIH"
+  },
+  {
+    "filename": "type_2_diabetes.md",
+    "topic": "type_2_diabetes",
+    "domain": "cardiometabolic",
+    "source_name": "NIDDK, NIH"
+  },
+  {
+    "filename": "flu_symptoms.md",
+    "topic": "influenza",
+    "domain": "respiratory",
+    "source_name": "CDC"
+  },
+  {
+    "filename": "flu_treatment.md",
+    "topic": "influenza_treatment",
+    "domain": "respiratory",
+    "source_name": "CDC"
+  },
+  {
+    "filename": "viral_gastroenteritis.md",
+    "topic": "viral_gastroenteritis",
+    "domain": "gastrointestinal",
+    "source_name": "NIDDK, NIH"
+  },
+  {
+    "filename": "adult_bladder_infection_uti.md",
+    "topic": "adult_uti",
+    "domain": "urinary",
+    "source_name": "NIDDK, NIH"
+  },
+  {
+    "filename": "back_pain.md",
+    "topic": "back_pain",
+    "domain": "musculoskeletal",
+    "source_name": "NIAMS, NIH"
+  },
+  {
+    "filename": "migraine.md",
+    "topic": "migraine",
+    "domain": "neurologic",
+    "source_name": "NINDS, NIH"
+  },
+  {
+    "filename": "urgent_red_flags.md",
+    "topic": "urgent_triage",
+    "domain": "safety",
+    "source_name": "CDC; NHLBI, NIH; NIAMS, NIH; NIDDK, NIH"
+  }
+]
